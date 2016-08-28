@@ -9,6 +9,6 @@ Built in [Processing 3](https://processing.org/).
 Feel free to do whatever with this code.
 
 <img src="https://github.com/jmorrow1/symmetrical-sprites/blob/master/images/1.jpg">
-<img src="https://github.com/jmorrow1/symmetrical-sprites/blob/master/images/3.png">
+<img src="https://github.com/jmorrow1/symmetrical-sprites/blob/master/images/5.png">
 <img src="https://github.com/jmorrow1/symmetrical-sprites/blob/master/images/2.png">
 <img src="https://github.com/jmorrow1/symmetrical-sprites/blob/master/images/4.png">
