@@ -1,6 +1,5 @@
 //based on Invader Fractal (http://www.complexification.net/gallery/machines/invaderfractal/)
-//TODO In a variation on checkerboards, make the black tiles in a checkerboard slide to make an invader
-   
+  
 int cellsPerRow = 8, cellsPerCol = 6;
 int spritesPerRow = 8, spritesPerCol = 6;
 int cellSqrt = 15;
